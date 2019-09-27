@@ -1,0 +1,2 @@
+sudo crontab -l to show info
+sudo crontab -e to edit scheduler
